@@ -20,3 +20,7 @@ We'd love your feedback and suggestions about the material we are posting here, 
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">UX Design</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Dronecode/UX-Design" rel="dct:source">https://github.com/Dronecode/UX-Design</a>.
+
+© Copyright 2016 Intel Corporation. All rights reserved.
+Intel, the Intel logo, Intel Inside, the Intel Inside logo, Intel. Experience What’s Inside are trademarks of Intel Corporation in the U.S. and/or other countries.
+*Other names and brands may be claimed as the property of others.

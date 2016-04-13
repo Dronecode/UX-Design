@@ -1,5 +1,6 @@
 # GCS User Experience Design
-This repository contains the source to 
+This repository contains insights to the community on gaps that need to be filled and best practices to extend.
+
 It is divided into different directories:
 * **Research**: user research reports we've been done with Dronocode compatibles GCS.
 * **QGC**: the contributions we are doing for QGroundControl project. It is divided into:

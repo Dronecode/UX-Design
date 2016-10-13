@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Methodology
+* [Methodology](methodology.md)
 

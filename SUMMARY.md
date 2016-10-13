@@ -14,4 +14,5 @@
 * Improvements
    * [Hard-To-Use Mission Planning Tools in Broader Solutions](hard-to-use_mission_planning_tools_in_broader_solu.md)
    * [Confusing Setup Tool](confusing_setup_tool.md)
+   * Lack of information About Drone Links
 

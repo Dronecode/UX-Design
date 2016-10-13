@@ -16,5 +16,5 @@
    * [Confusing Setup Tool](confusing_setup_tool.md)
    * [Lack of information About Drone Links](lack_of_information_about_drone_links.md)
    * [Flight Data Overflow](flight_data_overflow.md)
-* Conclusion
+* [Conclusion](conclusion.md)
 

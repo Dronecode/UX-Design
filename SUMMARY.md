@@ -10,5 +10,5 @@
    * [Support Material](support_material.md)
    * [Mission Drawing Tools](mission_drawing_tools.md)
    * [In Flight Problem Alerts](in_flight_problem_alerts.md)
-   * [VIsual Tools for Flight Analysis](visual_tools_for_flight_analysis.md)
+   * [Visual Tools for Flight Analysis](visual_tools_for_flight_analysis.md)
 

@@ -12,5 +12,5 @@
    * [In Flight Problem Alerts](in_flight_problem_alerts.md)
    * [Visual Tools for Flight Analysis](visual_tools_for_flight_analysis.md)
 * Improvements
-   * Hard-To-Use Mission Planning Tools in Broader Solutions
+   * [Hard-To-Use Mission Planning Tools in Broader Solutions](hard-to-use_mission_planning_tools_in_broader_solu.md)
 

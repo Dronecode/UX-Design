@@ -8,6 +8,8 @@ Study the** current state of UI related to drone flights** to find positive aspe
 
 This study was done on September, 2015. The features evaluated were the ones available until that.
 
+You can also access this document in PDF [here](http://dronecode.github.io/UX-Design/Research/Benchmark/GCSBenchmark.pdf).
+
 If you have any questions or comments, please feel free to contact:
 
 * Beatriz Palmeiro (beatriz.palmeiro@intel.com)

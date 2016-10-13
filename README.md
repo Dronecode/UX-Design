@@ -6,6 +6,8 @@ This document details a benchmark study done by Intel UX Design team on Ground C
 ##Purpose
 Study the** current state of UI related to drone flights** to find positive aspects and improvement areas on them. By doing so we hoped to identify **best practices and gaps** that the community can adress to iprove overall user experiences.
 
+This study was done on September, 2015. The features evaluated were the ones available until that.
+
 If you have any questions or comments, please feel free to contact:
 
 * Beatriz Palmeiro (beatriz.palmeiro@intel.com)

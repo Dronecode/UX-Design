@@ -4,7 +4,7 @@
 This document details a benchmark study done by Intel UX Design team on Ground Control Stations, and is part of our ongoing efforts for their improvement.
 
 ##Purpose
-Study the current state of UI related to drone flights to find positive aspects and improvement areas on them. By doing so we hoped to identify best practices and gaps that the community can adress to iprove overall user experiences.
+Study the** current state of UI related to drone flights** to find positive aspects and improvement areas on them. By doing so we hoped to identify **best practices and gaps** that the community can adress to iprove overall user experiences.
 
 If you have any questions or comments, please feel free to contact:
 

@@ -6,6 +6,7 @@ We created the [GCS Analysis Tool](http://dronecode.github.io/UX-Design/Research
 
 ### First Use
 
+![](firstuse.png)
 ### Setup
 
 ### Plan

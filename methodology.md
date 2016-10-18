@@ -4,7 +4,7 @@
 
 We analyzed any tools and applications, **mobile or desktop**, which deal in some way with **flight planning and monitoring**. They are not necessarily Ground Control Stations. This Study was done on semptember, 2015. The features evaluated were the one available until that.
 
-![](teste.png)
+![](BenchmarkMethodology.png)
 
 The experience was evaluated accordingly with how they support users achieving goals.
 

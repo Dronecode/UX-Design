@@ -1,10 +1,10 @@
 # Methodology
 
-**14 tools** were analyzed through **video tutorials**, t**echnical specifications**, **actual usage** and **reviews from users**. 
+**14 tools** were analyzed through **video tutorials**, **technical specifications**, **actual usage** and **reviews from users**. 
 
 We analyzed any tools and applications, **mobile or desktop**, which deal in some way with **flight planning and monitoring**. They are not necessarily Ground Control Stations. This Study was done on semptember, 2015. The features evaluated were the one available until that.
 
-IMAGEM 1
+![](teste.jpg)
 
 The experience was evaluated accordingly with how they support users achieving goals.
 

@@ -9,4 +9,10 @@ This feature has potential to be used to rerun missions for analysis purposes in
 
 ![](images/9.png)
 
+###OpenPilot
+
+Openpilot’s log screen contains separate graphs for different drone parameters, which can be useful for comparing a lot of information about drone flights with not all data in the same graph.
+
+![](images/10.png)
+
 

@@ -4,4 +4,6 @@ Some apps already show good initiatives about learning / support material. Most 
 appear in mobile apps targeting basic drone users (consumers).
 
 ###DJI Go
+The app contains step-by-step instructions with images about drone connection.
+
 ###Solo

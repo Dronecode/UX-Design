@@ -1,5 +1,7 @@
 # Analysis
 
+![](Analysis.png)
+
 Some GCS interfaces already present good ideas about communicating to users crucial information concerning the operation of drones: incompatibility alerts, usage instructions or safety checkages, that prevent the user from flying with problems in the drone.
 
 Some apps already show good initiatives about learning / support material. Most of them appear in mobile apps targeting basic drone users (consumers). 

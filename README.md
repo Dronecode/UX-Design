@@ -11,7 +11,6 @@ It is divided into different directories:
 ### Contacts
 If you need any help or would like to suggest a user study or even a better way to work together, please contact us.
 * Beatriz Palmeiro (beatriz.palmeiro@intel.com)
-* Carlos Felipe - Juca (carlos.felipe@intel.com)
 * Fabrício Novak (fabricio.novak@intel.com)
 
 ### Users and contributors are welcome
